@@ -1,10 +1,11 @@
 Myreads
 ===============================
 ![](images/mainPage.PNG)
-![](images/SearchPage.PNG)
+![](images/searchPage.PNG)
 
 This project was done as a part of the Udacity Front-End Web Developer Nanodegree Program.
-The starter file for this project is located at https://github.com/udacity/reactnd-project-myreads-starter
+The starter file for this project is located at https://github.com/udacity/reactnd-project-myreads-starter .
+To see the live version of this project click, https://pikabe.github.io/myreads/.
 
 App description
 ---
